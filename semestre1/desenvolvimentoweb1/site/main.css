@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', 'Tahoma';
 }
 
 #header{
@@ -37,4 +38,8 @@
 #menu li:hover{
     background-color: #46220f;
     color:#efb810;
+}
+
+img{
+    width: 100%;
 }
